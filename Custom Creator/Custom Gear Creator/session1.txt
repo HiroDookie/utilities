@@ -1,0 +1,10 @@
+a lot of time researching for this session
+had to figure out stuff like the base, tip, reference diameters for a gear
+found a lot of equation for each
+    since its based off of rev robotics parts i wanted to mimic their build pattern as well
+    ex: module of 0.75, reference angle of 20deg
+
+didnt spend too much of this session making the actual shape of the gear, mostly finding the equations to make it look right
+also figured out how to do configurations in onShape. had a lot of difficulty with #boreshape
+
+see gear1.png for this session
