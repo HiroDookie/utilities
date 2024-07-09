@@ -1,7 +1,0 @@
-a lot of time researching here too
-figured out some of the equations i was using was wrong
-i mixed up the reference and base diameter, some cad stuff was wrong with the gear teeth
-    ex: things not being concentric or coincidented properlly
-some final touches before i can circular pattern the design
-
-see gear2-6.png for this session

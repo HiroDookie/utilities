@@ -1,0 +1,17 @@
+continue final touches to custom gear creator's sketch
+circular sketch!!
+finally get to extrude! (gear8.jpg)
+
+should function properlly now but im now doing some aesthetic changes
+    ex: indented gear + protruding shaft collar
+
+changed the coloring and had to figure out some more configuration stuff
+    had difficulty with the checkbox configurations but its good now!
+
+moved on to quickly create a custom hex shaft creator 
+    went mostly well and i was pretty satisfied with what i had
+went back to test that the gear configs worked
+
+realized towards the end of the session that the gear config broke past teeth count 42
+
+see gear8-11.png and hex1.png for this session

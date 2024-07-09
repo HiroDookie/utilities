@@ -1,0 +1,34 @@
+a lot of troubleshooting the gear for this session
+
+documented gear breaking at teeth 42, works fine at 41
+realized my mistake after finding it wasnt the equations that was the issue (see gear 17.png), circular pattern wasnt centered properly causing misalignment between addendum and dedendum of gear tooth
+
+see gear12-14.jpg
+
+fixed indent also not working properly at teeth 42 (or maybe because i changed the sketch?)
+see gear15-16.png
+
+another issue i realied at teeth 100, dedndum was not properly fixed to base diameter
+fixed with gear18-20.png
+
+another issue with small gear teeth count
+i apparently messed up a lot of the circular pattern because the addendum wasnt properly patterned either
+fixed this and should work now (it did not)
+indenting was broken because what was supposed to be the inner circle had a diameter greater than the outer circle
+i had no real way of fixing this besides making the indent diameter only 1.5mm smaller/larger than the outer/inner diameters
+    1.5 is basically useless so i just opted to limit the gear teeth to 20 where it wouldnt breaking
+see gear21-25.png
+
+also found the max for this issue
+    probably around 150 but opted for max 125 as safety
+see gear26-27.png
+
+tested the gear and it should be all good now with proper limits
+now moving on to the hex shaft
+    i noticed it looked weird at a large diameter so i messed around and changed the sketches
+    then realized that the diameter was not the only issue, the inner hex needed to be scaled proportionally to the larger hex so it looks normal
+    very roundabout way of figuring out i didnt need to do this and instead just add a scale feature (nobody is going to use this anyways)
+see hex2.png
+
+final minutes made a custom d-bore shaft (i dont think people actually use these or at least will use this utility)
+see dbore1-2.png
