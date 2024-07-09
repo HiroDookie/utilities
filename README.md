@@ -13,5 +13,7 @@ CAD utilities found [here](https://cad.onshape.com/documents/8e83f83d8b42b59539b
  - Custom D Shaft Creator
 
 .step files for every session can be found in Session Files
+
 The onShape Document also has versions for each session to look through individual sketches, extrudes, lofts, etc.
+
 Screenshots for each session will be uploaded soon in Custom Creator. For now, I've linked each session including the screenshots in Session Files > Session Links
